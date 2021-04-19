@@ -1,0 +1,4 @@
+MANIFEST_VERSION = openstlinux-5.4-dunfell-mp1-20-11-12
+KERNEL_DT = ./DeviceTree/exchange_large_buf/kernel
+UBOOT_DT = ./DeviceTree/exchange_large_buf/u-boot
+TFA_DT = ./DeviceTree/exchange_large_buf/tf-a

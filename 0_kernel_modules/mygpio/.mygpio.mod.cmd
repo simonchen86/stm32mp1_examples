@@ -1,0 +1,1 @@
+cmd_/home/simon/workspace/st/developer_package/examples/modules/mygpio/mygpio.mod := { echo  /home/simon/workspace/st/developer_package/examples/modules/mygpio/mygpio.o; echo; } > /home/simon/workspace/st/developer_package/examples/modules/mygpio/mygpio.mod
